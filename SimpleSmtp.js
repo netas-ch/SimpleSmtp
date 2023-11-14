@@ -1,5 +1,11 @@
 'use strict';
 
+/**
+ * Copyright © 2023 Lukas Buchs, Netas AG
+ * www.netas.ch
+ * MIT Licensed
+ */
+
 const tls = require('tls');
 const dns = require('dns');
 const net = require('net');
